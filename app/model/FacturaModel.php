@@ -1,4 +1,4 @@
-<<?php 
+<?php 
 require_once_one __DIR__ . '/../config/db.php';
 
 class FacturaModel{
